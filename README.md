@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Soundlabusa
-- 👀 I’m interested in vidoe production
-- 🌱 I’m currently learning how handle video in power point and vegas
-- 💞️ I’m looking to collaborate on people who are interested
+- 👀 I’m interested in vidoe production using AI and GitHub 
+- 🌱 I’m currently learning how to handle video in power point and vegas
+- 💞️ I’m looking forward to collaborate with people who are interested
 - 📫 How to reach me : soundlabusa@gmail.com
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: ...
